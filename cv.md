@@ -12,7 +12,11 @@
 #### Specialization: Aviation engines and energetic power units
 #### Current job: Designing of equipment for Nuclear Power Plants 
 #### English level: B1 or B2
-#### About me: Do not have any experience in IT area but want to learn coding to be managed to decide some practice tasks for automatization any part of work tasks
+#### About me: Do not have any experience in IT area but want to learn coding to be managed to decide some practice tasks for automatization any part of work tasks. I dream to work for IT area in global corporation as programmer!
 #### Code example:
+```
+def multiply(a, b):
+   return a * b
+```
 #### 
-[Обычная ссылка с title](https://www.google.com "Сайт Google")
+[my CV](https://github.com/mademoiselle-yu/rsschool-cv/blob/gh-pages/cv.md)
