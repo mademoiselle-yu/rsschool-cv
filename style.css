@@ -20,4 +20,8 @@ table.border th {
 .icon {
     float: right;
 }
-    
+h1 {
+  color: #618ad2;
+  font-size: 28px;
+  font-family: "Monaco", "Courier", monospace;
+}    
