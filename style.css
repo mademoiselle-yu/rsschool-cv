@@ -14,10 +14,10 @@ table.border td, table.border th {
 table.border th {
     background: #e0e0e0;
 }
-IMG.cv_photo_img {
+.cv_photo_img {
   float: right;
 }
-IMG.icon {
+.icon {
     float: right;
 }
 h1 {
