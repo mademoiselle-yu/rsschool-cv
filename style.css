@@ -4,16 +4,7 @@ html, body {
     margin: 0;
     padding: 0;
 }
-table {
-    border-collapse: collapse;
-}
-table.border td, table.border th {
-    padding: 5px;
-    border: 1px solid #c0c0c0;
-}
-table.border th {
-    background: #e0e0e0;
-}
+
 .cv_photo_img {
   float: right;
 }
@@ -23,5 +14,5 @@ table.border th {
 h1 {
   color: #618ad2;
   font-size: 28px;
-  font-family: "Monaco", "Courier", monospace;
+   
 }    
